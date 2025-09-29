@@ -1,5 +1,7 @@
 # Zone DNS autoupdater
 ## Usage
+> Don't forget to fill your .env with your data and put PROD to true
+
 ```
 pip install -r requirements.txt
 python3 main.py
