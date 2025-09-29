@@ -1,7 +1,7 @@
 # Zone DNS autoupdater
 ## Usage
-\npip install -r requirements.txt
-python3 main.py\n
+`pip install -r requirements.txt
+python3 main.py`
 
 ## Sample crontab
 Here's a sample crontab i use:
